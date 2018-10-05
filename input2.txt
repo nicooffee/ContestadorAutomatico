@@ -1,0 +1,58 @@
+1
++everybody smiles.
++nobody smiles.
+who smiles?
+-nobody smiles.
+who smiles?
+bai!
+2
++I don't like summer
++Nico walks to home
++Maria walks to home
++Diego doesn't walk to home
+who walks to home?
+does Diego walk to home?
+bye!
+3
++Nico smiles.
++Maria smiles.
++Juan smiles.
++Pedro smiles.
++Sebastian smiles.
++Diego smiles.
++Jose smiles.
++Josefa doesn't smiles.
+who smiles?
+-Nico smiles
++everybody smiles
+who smiles?
+-Josefa doesn't smiles.
+who smiles?
+-everybody smiles.
+who smiles?
+ok!
+4
+what do you do?
++You like pizza.
++You don't like pizza.
+what do you do?
+-You don't like pizza.
++everybody smiles
++you walk in ur home.
+what do you do?
+do you like pizza?
+do you like bread?
+do you like?
++you like.
++nobody likes.
+do you like?
+-you like.
+do you like?
+do i like?
+does diego like?
+-nobody likes.
++everybody likes.
+does diego like pizza?
+does diego like?
+what does everybody do?
+!!

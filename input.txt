@@ -1,0 +1,33 @@
+1
++I like hotdogs.
++nobody likes to work.
++everybody smiles.
+what do I do?
+who smiles?
+what do you do?
+do I like hotdogs?
+does Joe smile?
+do I like to work?
++everybody hurts sometimes.
+who walks there?
++Michal walks there.
+who walks there?
+what does Michal do?
+-Michal walks there.
+who walks there?
+what does Michal do?
+do you understand?
++Jonh walks there.
++nobody walks there.
+do you understand now?
+-nobody walks there.
+do you understand now?
+bye!
+2
++I don't like summer
++Nico walks to home
++Maria walks to home
++Diego don't walk to home
+who walks to home?
+does Diego walk to home?
+bye!
